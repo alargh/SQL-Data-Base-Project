@@ -1,4 +1,4 @@
-# Database Fundamentals - Team Project
+# Database Project
 
 ## Project Description
 The project focuses on a database management system for a school, covering user management, courses, studies, internships, webinars, and payments. The system enables different user roles (e.g., administrator, school director, coordinator, teacher, translator, student) to perform specific actions such as managing data, generating reports, enrolling in events, scheduling, and more. DataBase was created using **DataGrip**.
