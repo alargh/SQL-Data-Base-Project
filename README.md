@@ -24,7 +24,7 @@ The project focuses on a database management system for a school, covering user 
 The database diagram illustrates relationships between tables such as `Users`, `Students`, `Courses`, `Webinars`, `Orders`, `Payments`, and others.  
 The diagram was generated using **Vertabelo**
 
-![Database Diagram](https://github.com/alargh/SQL-Data-Base-Project/diagram.png)
+![Database Diagram](https://github.com/alargh/SQL-Data-Base-Project/blob/main/diagram.png)
 
 ## Views
 The system includes several views to facilitate report generation, such as:  
